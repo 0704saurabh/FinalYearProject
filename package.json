@@ -1,0 +1,36 @@
+{
+  "name": "finalyearproject",
+  "version": "1.0.0",
+  "description": "A Chat Application For SportsGeeks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0704saurabh/FinalYearProject.git"
+  },
+  "author": "Saurabh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0704saurabh/FinalYearProject/issues"
+  },
+  "homepage": "https://github.com/0704saurabh/FinalYearProject#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "dependable": "^1.1.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.0.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^5.3.1",
+    "flash": "^1.1.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.5",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
